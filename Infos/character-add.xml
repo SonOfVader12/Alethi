@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+
+	<Entry>
+		<zType>CHARACTER_GAVILAR</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_GAVILAR</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ASHURBANIPAL</PreferredPortrait>
+		<PlayerDynasty>DYNASTY_ASHURBANIPAL</PlayerDynasty>
+		<Father>CHARACTER_ESARHADDON</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_ASHURBANIPAL</CharacterSelectPortrait>
+		<iAge>55</iAge>
+		<aeTraits>
+			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
+			<zValue>TRAIT_ELOQUENT</zValue>
+            <zValue>TRAIT_PROUD</zValue>
+		</aeTraits>
+	</Entry>
+</Root>

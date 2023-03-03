@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- default dynasties -->
+	<Entry>
+		<zType>DYNASTY_GAVILAR</zType>
+		<Nation>NATION_ALETHKAR</Nation>
+		<Founder>CHARACTER_GAVILAR</Founder>
+		<FirstRuler>CHARACTER_GAVILAR</FirstRuler>
+	</Entry>
+</Root>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+
+	<Entry>
+		<zType>NATION_ALETHKAR</zType>
+		<Name>TEXT_NATION_ALETHKAR</Name>
+		<TeamColor>TEAMCOLOR_NATION_PERSIA</TeamColor>
+		<Crest>CREST_NATION_PERSIA</Crest>
+		<zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
+		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_PERSIA</zCharacterPortraitBackground>
+		<CapitalAsset>ASSET_VARIATION_CITY_PERSIA_CAPITAL</CapitalAsset>
+		<CityAsset>ASSET_VARIATION_CITY_PERSIA_CAPITAL</CityAsset>
+		<UrbanAsset>ASSET_VARIATION_PERSIA_URBAN</UrbanAsset>
+		<aeDynasties>
+			<zValue>DYNASTY_GAVILAR</zValue>
+		</aeDynasties>
+		<DefaultDynasty>DYNASTY_GAVILAR</DefaultDynasty>
+		<FirstBuild>UNIT_SETTLER</FirstBuild>
+		<EffectPlayer>EFFECTPLAYER_NATION_PERSIA</EffectPlayer>
+		<MapElementNames>MAP_ELEMENT_NAMES_FOR_PERSIA</MapElementNames>
+		<iFirstBuildPercent>40</iFirstBuildPercent>
+		<aiStartUnit>
+			<Pair>
+				<zIndex>UNIT_WARRIOR</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiStartUnit>
+		<aeStartingTech>
+			<zValue>TECH_IRONWORKING</zValue>
+			<zValue>TECH_ADMINISTRATION</zValue>
+			<zValue>TECH_SOVEREIGNTY</zValue>
+		</aeStartingTech>
+		<aeStartingLaw>
+			<Pair>
+				<zIndex>LAWCLASS_ORDER</zIndex>
+				<zValue>LAW_PRIMOGENITURE</zValue>
+			</Pair>
+		</aeStartingLaw>
+		<aeFirstNamesMale>
+			<zValue>NAME_ARDASHIR</zValue>
+		
+		</aeFirstNamesMale>
+		<aeFirstNamesFemale>
+			<zValue>NAME_AMESTRIS</zValue>
+		
+		</aeFirstNamesFemale>
+		<aeCityNames>
+			<zValue>CITYNAME_PERSEPOLIS</zValue>
+		</aeCityNames>
+		<aeCharacterPortraits>
+			<zValue>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_01</zValue>
+		
+		</aeCharacterPortraits>
+		<Story>TEXT_NATION_ALETHI_STORY</Story>
+	</Entry>
+</Root>
